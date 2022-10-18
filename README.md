@@ -1,3 +1,3 @@
 # Expense_Handler
-Built On React <br>
+Built With React.js <br>
 Author: Abhideep Ghosh
