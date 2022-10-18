@@ -1,3 +1,3 @@
 # Expense_Handler
-# Built On React
-# Author: Abhideep Ghosh
+Built On React <br>
+Author: Abhideep Ghosh
